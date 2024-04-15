@@ -29,5 +29,5 @@ def summarize():
         return render_template("output.html", data={"clinical_note": clinical_note})
 
 if __name__ == '__main__': # It Allows You to Execute Code When the File Runs as a Script
-    app.run()
+    app.run(debug=False, host='0.0.0.0')
 
