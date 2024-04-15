@@ -1,1 +1,0 @@
-# HealthScribe-Clinical_Note_Generator
