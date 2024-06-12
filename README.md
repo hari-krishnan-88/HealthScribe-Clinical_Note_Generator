@@ -1,4 +1,4 @@
-# HealthScribe ( a Clinical Note Generator using Generative AI )
+# HealthScribe (a Clinical Note Generator using Generative AI)
 
  A web application that allows users to generate clinical notes from transcribed ASR(Automatic Speech Recognition) data of conversations between doctors and patients using fine-tuned BART model [(har1/HealthScribe-Clinical_Note_Generator)](https://huggingface.co/har1/HealthScribe-Clinical_Note_Generator)
 
