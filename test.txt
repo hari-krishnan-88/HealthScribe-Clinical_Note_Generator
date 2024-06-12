@@ -1,0 +1,150 @@
+"Doctor: Hi there, I love that dress, very pretty! 
+Patient: Thank you for complementing a seventy-two-year-old patient.
+Doctor: No, I mean it, seriously. Okay, so you were admitted here in May two thousand nine. You have a history of hypertension, and on June eighteenth two thousand nine you had bad abdominal pain diarrhea and cramps.
+Patient: Yes, they told me I might have C Diff? They did a CT of my abdomen and that is when they thought I got the infection.
+Doctor: Yes, it showed evidence of diffuse colitis, so I believe they gave you IV antibiotics?
+Patient: Yes they did. 
+Doctor: Yeah I see here, Flagyl and Levaquin. They started IV Reglan as well for your vomiting.
+Patient: Yes, I was very nauseous. Vomited as well.
+Doctor: After all this I still see your white blood cells high. Are you still nauseous? 
+Patient: No, I do not have any nausea or vomiting, but still have diarrhea. Due to all that diarrhea I feel very weak.
+Doctor: Okay. Anything else any other symptoms?
+Patient: Actually no. Everything's well.
+Doctor: Great.
+Patient: Yeah."
+
+
+"Doctor: It's good to see you sitting up in the bed, ma'am. 
+Patient: I've been walking around without any difficulty too. 
+Doctor: Have you eaten anything yet?
+Patient: No, I've remained, um, NPO, just like you told me. 
+Doctor: Good, do you have any new symptoms since June tenth two thousand nine? 
+Patient: No, but I do have tenderness where you made the cut for the surgery.
+Doctor: That's pretty normal. I'm glad that you're doing well after the procedure. Do you have any questions?
+Patient: How did my procedure go?
+Doctor: It went well, we are all down and you should be back to eating shortly."
+
+
+"Doctor: Remind me, please, when was your last appointment, miss?
+Patient: Um, it was about three months ago. 
+Doctor: How have your diabetes and kidney disease progressed since?
+Patient: Well, I've had a lot of variability in my glucose control too largely, and recent upper and lower respiratory illnesses.
+Doctor: Who treated you for these?
+Patient: I didn't see anyone, the symptoms just kind of improved on their own.
+Doctor: I see, are you still having difficulties with blood sugar management?
+Patient: Yes, my two week average is one hundred ninety one, and it was high this morning.
+Doctor: What do you think caused this?
+Patient: Um, I had problems with my infusion set. 
+Doctor: Let's try a correction bolus. Okay, now your blood sugar is quite low. Let's try to get some glucose and crackers into you.
+Patient: Yes, I feel a little better now.
+Doctor: Okay, your blood sugar is back up to over one hundred, which is good.
+Patient: I should be able to manage this on my own.
+Doctor: Good, Are you having any other medical problems that have interfered with glucose control?
+Patient: No, not that I know of.
+Doctor: Have you had any diet changes recently?
+Patient: A little bit, I've been away traveling and visiting my family for some time."
+
+
+"Guest_family: They just changed his P bag, that's why there is no pee in it.
+Doctor: Okay. Yes, it looks empty. I think they did a straight cath.
+Guest_family: Yeah, and they took out the urine to send it to the lab.
+Doctor: Okay. Yes, there were no leukocyte seen. That means no infection.
+Guest_family: But they said there was blood?
+Doctor: Yes, during catheterization but the urine is normal.
+Guest_family: Okay.
+Doctor: In your x ray there was stool seen in the colon.
+Guest_family: Okay.
+Guest_family_2: He is fine?
+Doctor: Yeah, he is fine. I can see that he is very active. Jumping up and down.
+Doctor: Hi champ!
+Patient: Hi."
+
+
+"Patient: I just had few questions. Can you tell me about my diagnosis?
+Doctor: Sure. It's called Serotonin syndrome, ma'am. After careful evaluation of your labs, we found out that your white count and C P K was high, and those abnormalities lined up with serotonin syndrome. What are you experiencing right now?
+Patient: I have been very restless and easily agitated, I have diarrhea. But no fever or shakiness.
+Doctor: These can match serotonin syndrome as well. You deny any fever, tremor or hypperflexia so we will give you some IV fluids and I will check on you in an hour or so.
+Patient: Okay. 
+Doctor: Looks like your C P K counts improved with I V fluids and after discontinuing Prozac.
+Patient: How are the counts now? Are they normal? Because I feel normal.
+Doctor: Yes, your C P K and white blood cell counts have come back down. Almost normal now.
+Patient: My husband left me two weeks ago. My panic attacks are increasing day by day.
+Doctor: Okay, I see that you have a history of panic attacks and you do have depression and anxiety, is that correct? Last Friday, I talked to psychiatrist about your issues, and he recommended Cymbalta as an alternative to Prozac. 
+Patient: Yes, I stopped taking Prozac, and I am going to see him on Monday or Tuesday. I have a counselor too.
+Patient: I do think it will be difficult to go home alone but my daughter is coming to visit me in two weeks.
+Doctor: Oh wow.
+Patient: Yeah.
+Doctor: That's nice. Do you have someone who can drop you home and help you?
+Patient: Yes, I have a friend who does that, I am staying with her for next three days.
+Doctor: Okay that sounds good. Just continue with your medications for high blood pressure and diabetes as well. So, we treated your imbalance issues and gave you IV fluids, you do not have any more diarrhea, right?
+Patient: Yes, that's right."
+
+
+"Doctor: Welcome to the clinic, miss. 
+Patient: Thank you. 
+Doctor: What brings you to the clinic today? 
+Patient: I am concerned that I have been having small seizures again. 
+Doctor: Do you have a history of epilepsy? 
+Patient: Yes, I do. I also have had non epileptic issues in the past. 
+Doctor: Okay. What makes you feel like you are having seizures again? 
+Patient: In the mornings I have been waking up with strange body aches and feeling confused. I have felt these feelings before after having seizures in the past. I live alone now so I don't know if I had a seizure or not. 
+Doctor: Okay. Do you have weakness when you wake up? 
+Patient: Yes. It also happens while I am at work at my desk. I work alone in my office most of the day so no one is around to notice what might be happening. 
+Doctor: Okay. That is good to know. How old are you? 
+Patient: I am forty six.  
+Doctor: Okay. I would like to perform a video E E G today. By doing the video E E G we will have more information on whether you are having epileptic seizures or non-epileptic events. 
+Patient: Yes. Let's do that. 
+Doctor: Do you have time for us to do it today? 
+Patient: Yes. I took the whole day off work so we can do it now. 
+ Doctor: Excellent! I will have the nurse come in a get you set up. 
+Patient: Okay."
+
+
+"Doctor: So what brings you in today? 
+Patient: Um I think I'm due for a checkup. While I'm here, I also wanted to figure out why I'm having so much joint pain all over. 
+Doctor: When did you first notice the pain? 
+Patient: It's been a couple weeks now. I thought it'd go away on its own. I've taken Advil for it, which helps a tiny bit."
+"Doctor: How's she doing today? 
+Guest_family: She's been blowing up green snot and complaing of ear pain. 
+Doctor: Both ears? 
+Guest_family: Both the right and left. 
+Doctor: How long has she been bringing up green snot? 
+Guest_family: Maybe six or so days? 
+Doctor: Let's see. It looks like she may have sinusitis. After checking both ears, I noticed fluid buildup in the right middle ear. I'll go ahead and prescribe her some antibiotics and hopefully she'll be as good as new in a few days. I'd like her to come back for a follow up to make sure all the fluid in her ear is gone."
+"Doctor: Have you ever been hospitalized for anything? 
+Patient: No, thankfully. I was close to being hospitalized once, but it never actually happened. 
+Doctor: And when was this? 
+Patient: About two years ago. I got into a pretty brutal skateboarding accident.  
+Doctor: Oh gosh. How long have you been skateboarding? 
+Patient: Since I was a kid. Bout eight or nine years old. 
+Doctor: Do you skate in your neighborhood or at a skatepark? 
+Patient: Skatepark. I'll go with my friends every now and again.  
+Doctor: Nice. I've never been skateboarding, but I've always been in awe of kids like you who know how to do cool skateboard tricks."
+"Doctor: Any medical issues running in your families? 
+Patient: Oh yes, stroke. 
+Doctor: Anything else? 
+Patient: Sleep apnea."
+
+
+"Doctor: Any pain in your muscles? 
+Patient: No, no pain.
+Doctor: How about joint pain? 
+Patient: Um no, I don't feel any joint pain.
+Doctor: Okay, good.
+Doctor: Do you feel any stiffness or weakness in your muscle? 
+Patient: Um, nothing like that.
+Doctor: Do you have any back pain? 
+Patient: No.
+Doctor: Okay."
+
+
+"Guest_clinician: How old is the patient? 
+Doctor: Seventy seven. 
+Guest_clinician: She was sedated with Ativan, correct? 
+Doctor: Yeah, we had to sedate her. She wasn't doing so well upon arrival and appeared short of breath. She couldn't give us a history and we immediately had Xray come in to scan her lungs. 
+Guest_clinician: Did they find anything? 
+Doctor: The report showed what we believe to be free air under her right diaphragm."
+"Doctor: Anyone in family with any blood or heart issues?
+Patient: No. 
+Doctor: Anyone diabetic or with any other issues in family? 
+Patient: No."
