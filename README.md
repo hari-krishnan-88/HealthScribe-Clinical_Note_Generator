@@ -92,5 +92,10 @@ Final Output is the Clinical note which is derived from the conversation and par
 - Diagnosis :
 - History of Patient :
 - Plan of Action :
-  
+
+## Contributers
+[Aleena Patani](https://github.com/Aleenapatani03)
+[Amigashabnam F](https://github.com/AMI-BYTE6)
+[Harikrishnan KC](https://github.com/hari-krishnan-88)
+[Sujith J](https://github.com/sujithjayaprakash)
 
