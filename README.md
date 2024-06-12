@@ -37,12 +37,33 @@
 
 A step by step guide that will tell you how to get the development environment up and running.
 
+First Clone the repo
 ```
-$ First step
-$ Another step
-$ Final step
+$ git clone https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator.git
 ```
-
+Change directory to the repo directory
+```
+$ cd HealthScribe-Clinical_Note_Generator
+```
+Activate the Virtual Environment venv
+```
+$ activate
+```
+Run the Flask App app.py
+```
+$ flask --app app --debug run
+```
+Click on the URL to open the web interface on your browser
+```
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-629-777
+```
 ## Usage
 
 ![1](https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator/assets/76527692/7ad1546f-f431-4957-af6b-0414d7ba12d5)
