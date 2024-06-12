@@ -53,7 +53,7 @@ Run the Flask App app.py
 ```
 $ flask --app app --debug run
 ```
-Click on the URL to open the web interface on your browser
+Click on the URL (http://127.0.0.1:5000) to open the web interface on your browser
 ```
  * Serving Flask app 'app'
  * Debug mode: on
