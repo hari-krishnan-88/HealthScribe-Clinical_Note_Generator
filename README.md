@@ -63,7 +63,7 @@ After Clicking the submit button the interface tokenizes the data and sends it t
 
 
 
-![3](https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator/assets/76527692/bb6f289a-749e-4b96-a64b-35c543c3abc3)|
+![3](https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator/assets/76527692/bb6f289a-749e-4b96-a64b-35c543c3abc3)
 -
 
 Final Output is the Clinical note which is derived from the conversation and parameterised on the basis of : 
