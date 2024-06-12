@@ -54,7 +54,13 @@ This is how the initial web-interface looks like. A user can input the doctor-pa
 ![2](https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator/assets/76527692/e34d6eba-6d38-4393-b690-02f7040e7159)
 
 
+
+
+
 After Clicking the submit button the interface tokenizes the data and sends it to the HuggingFace Model and the output is processed.
+
+
+
 
 
 ![3](https://github.com/hari-krishnan-88/HealthScribe-Clinical_Note_Generator/assets/76527692/bb6f289a-749e-4b96-a64b-35c543c3abc3)
