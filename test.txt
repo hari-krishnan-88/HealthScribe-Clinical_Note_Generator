@@ -144,6 +144,8 @@ Guest_clinician: She was sedated with Ativan, correct?
 Doctor: Yeah, we had to sedate her. She wasn't doing so well upon arrival and appeared short of breath. She couldn't give us a history and we immediately had Xray come in to scan her lungs. 
 Guest_clinician: Did they find anything? 
 Doctor: The report showed what we believe to be free air under her right diaphragm."
+
+
 "Doctor: Anyone in family with any blood or heart issues?
 Patient: No. 
 Doctor: Anyone diabetic or with any other issues in family? 
